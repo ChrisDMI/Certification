@@ -1,0 +1,13 @@
+fastapi 
+uvicorn[standard]
+gunicorn 
+boto3 
+joblib
+pandas
+pydantic
+typing
+scikit-learn
+python-multipart
+
+
+
